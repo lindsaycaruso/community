@@ -1,1 +1,1 @@
-# mycommunity
+# community
